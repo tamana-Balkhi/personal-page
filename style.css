@@ -32,13 +32,17 @@ font-size: 50px;
         
       }
       a{
-          margin-right: 10px;
+          
           margin-left: 20px;
           color: red;
           font-size: 20px;
           font-weight: 400;
           text-decoration: non;
+          display: flex;
+          margin-right: 2rem;
+        }
 
+          
           
           
       }
